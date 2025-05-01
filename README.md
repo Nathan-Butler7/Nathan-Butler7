@@ -10,6 +10,7 @@ Microsoft Azure
   - [osTicket: Prerequisites and Installation](https://github.com/Nathan-Butler7/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Nathan-Butler7/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Nathan-Butler7/ticket-lifecycle)
+- <b>VPNs</b>
 - <b>Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Nathan-Butler7/configure-ad)
  
