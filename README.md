@@ -11,7 +11,7 @@ Microsoft Azure
   - [osTicket: Post-Installation Configuration](https://github.com/Nathan-Butler7/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Nathan-Butler7/ticket-lifecycle)
 - <b>VPNs</b>
-  - [Virtual Private Network (VPNS) Setup and Usage (Proton VPN)](https://github.com/Nathan-Butler7/vpn-setup-usage)
+  - [Virtual Private Network (VPNs) Setup and Usage (Proton VPN)](https://github.com/Nathan-Butler7/vpn-setup-usage)
  
 
 <h2>🤳Connect with me:</h2>
