@@ -12,8 +12,6 @@ Microsoft Azure
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Nathan-Butler7/ticket-lifecycle)
 - <b>VPNs</b>
   - [Virtual Private Network (VPNS) Setup and Usage (Proton VPN)](https://github.com?Nathan-Butler7/vpn-setup-usage)
-- <b>Active Directory</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/Nathan-Butler7/configure-ad)
  
 
 <h2>🤳Connect with me:</h2>
